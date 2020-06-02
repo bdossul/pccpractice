@@ -1,0 +1,1 @@
+print("Hello PCC book - I am going to use your book intensely to write my own python examples using your examples to help me understand it better. Then, I will commit every time I make a new code to keep myself refreshed in the future!")
